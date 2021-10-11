@@ -1,1 +1,1 @@
-# Cordova-webapp
+BLOCK Chain project
